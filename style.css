@@ -1,10 +1,12 @@
 :root{
-    --cor--cabecalho:#383D58;
-    --cor--fundo1:#9F16B6;
-    --cor--fundo2:#4EBFE9;
-    --cor--etudandes:#A4B9D3;
-    --cor--rodape:#000000;
+    --cor-cabecalho:#383D58;
+    --cor-fundo1:#9F16B6;
+    --cor-fundo2:#4EBFE9;
+    --cor-etudandes:#A4B9D3;
+    --cor-rodape:#000000;
+    --cor-letras:#FFFFFF;
 }
 .cabecalho{
-    background-color: var(--cor--cabecalho);
+    background-color: var(--cor-cabecalho);
+    color: var(--cor-letras)
 }
