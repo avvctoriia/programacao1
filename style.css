@@ -10,3 +10,6 @@
     background-color: var(--cor-cabecalho);
     color: var(--cor-letras)
 }
+.imagem-cabecalho{
+    width: 20%
+}
