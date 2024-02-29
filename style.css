@@ -8,7 +8,8 @@
 }
 .cabecalho{
     background-color: var(--cor-cabecalho);
-    color: var(--cor-letras)
+    color: var(--cor-letras);
+    display: flex;
 }
 .imagem-cabecalho{
     width: 20%;
