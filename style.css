@@ -10,7 +10,9 @@
     background-color: var(--cor-cabecalho);
     color: var(--cor-letras);
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
+    padding:24px 0 ;
 }
 .imagem-cabecalho{
     width: 25%;
