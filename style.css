@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    padding:0;
+}
 :root{
     --cor-cabecalho:#383D58;
     --cor-fundo1:#9F16B6;
