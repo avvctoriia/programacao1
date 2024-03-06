@@ -3,7 +3,7 @@
     padding:0;
 }
 :root{
-    --cor-cabecalho:#383D58;
+    --cor-cabecalho:#562D99;
     --cor-fundo1:#562D99;
     --cor-fundo2:#4EBFE9;
     --cor-etudandes:#A4B9D3;
@@ -32,4 +32,5 @@
 .escola{
     background-image: linear-gradient(#562D99,#4EBFE9);
     color:#FFFFFF;
+    diplay
 }
